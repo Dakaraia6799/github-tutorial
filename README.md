@@ -36,7 +36,7 @@ In order for you to setup a accout you do the following:
 3) initialize git in this new directory  
 4) use git add to add your directory to the "stage"  
 5) then commit your file so htat its uploaded to the repository  
-6) finnally you would use git push so it is uploaded to the github and is abled to be pulled down   
+6) finally you would use git push so it is uploaded to the github and is abled to be pulled down   
 
 
 
