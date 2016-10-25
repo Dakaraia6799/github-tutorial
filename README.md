@@ -54,5 +54,6 @@ This command uploads your code and any changes to the code that was on the "stag
 
 #### Git push: 
 Doing this command will upload any commits you have recently uploaded to the local repository to the remote.  
-#### Error handling:  
+
+## Error handling:  
 A error most students do is forget to initialize git inside of the workspace instead of the direcotry they created. a way to fix this is uninitializing git by doing the command rm -rf .git then cd into the direcotry you want then initialize git
