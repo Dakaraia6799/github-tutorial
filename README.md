@@ -31,12 +31,12 @@ In order for you to setup a accout you do the following:
 
 ---
 ## Repository Setup  
-1) create a new direcotry
-2) cd into that new direcotry
-3) initialize git in this new directory
-4) use git add to add your directory to the "stage"
-5) then commit your file so htat its uploaded to the repository 
-6) finnally you would use git push so it is uploaded to the github and is abled to be pulled down 
+1) create a new direcotry  
+2) cd into that new direcotry  
+3) initialize git in this new directory  
+4) use git add to add your directory to the "stage"  
+5) then commit your file so htat its uploaded to the repository  
+6) finnally you would use git push so it is uploaded to the github and is abled to be pulled down   
 
 
 
@@ -55,4 +55,4 @@ This command uploads your code and any changes to the code that was on the "stag
 #### Git push: 
 Doing this command will upload any commits you have recently uploaded to the local repository to the remote.  
 #### Error handling:  
-A error most students do is forget to initialize git inside of the workspace instead of the direcotry they created a way to fix this is uninitializing git by doing the command rm -rf .git then cd into the direcotry you want then initialize git
+A error most students do is forget to initialize git inside of the workspace instead of the direcotry they created. a way to fix this is uninitializing git by doing the command rm -rf .git then cd into the direcotry you want then initialize git
