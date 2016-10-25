@@ -17,14 +17,14 @@ The difference between Git and Github is that Git takes snapshots of code howeve
 ---
 ## Initial Setup  
 In order for you to setup a accout you do the following:  
-1) go to [Github](github.com) and click the octocat on the top right
-2) make the username you desire
-3) create a password
-4) if a bubble pops up saying it is wrong just ignore it
-5) make a free acount 
-6) press finish sign-up and go to [c9.io](c9.io)
-7) click the octocat in the top right corner 
-8) press connected services to connect it to your github
+1) go to [Github](github.com) and click the octocat on the top right  
+2) make the username you desire  
+3) create a password  
+4) if a bubble pops up saying it is wrong just ignore it  
+5) make a free acount   
+6) press finish sign-up and go to [c9.io](c9.io)  
+7) click the octocat in the top right corner  
+8) press connected services to connect it to your github  
 
 
 
