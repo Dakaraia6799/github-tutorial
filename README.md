@@ -5,11 +5,15 @@ _by Dakarai Arnold_
 ---
 ## Git vs. GitHub
 #### Git: 
-Is a distributed version control system and is responsible for keeping track of all changes to content it also allows you to share content with others.  
+Is a distributed version control system and is responsible for keeping track of all changes to content 
+it also allows you to share content with others.  
 #### GitHub:  
-Is a git repository hosting service, it provides a web-based interface and other things like access control and several other collaboration features.  
+Is a git repository hosting service, it provides a web-based interface and other things like access control 
+and several other collaboration features.  
 #### Difference:  
-The difference between Git and Github is that Git takes snapshots of code however, you cannot use Github without git. GitHub stores save code in the website also known as the "clouds".
+The difference between Git and Github is that Git takes snapshots of code however, you cannot use 
+Github without git. GitHub stores save code in the website also known as the "clouds". 
+Git doesnt require the use of github.
 
 
 
@@ -36,24 +40,26 @@ In order for you to setup a accout you do the following:
 3) initialize git in this new directory  
 4) use git add to add your directory to the "stage"  
 5) then commit your file so htat its uploaded to the repository  
-6) finnally you would use git push so it is uploaded to the github and is abled to be pulled down   
+6) finally you would use git push so it is uploaded to the github and is abled to be pulled down   
 
 
 
 
 ---
 ## Workflow & Commands
-#### Git status:
+#### `Git status`:
 This command shows you the previous changes that was made to your code.  
 
-#### Git add:
+#### `Git add`:
 Doing this command will add whatevers in your working direcotry to  the "stage" so it is ready to be commited.
 
-#### Git commit:  
+#### `Git commit`:  
 This command uploads your code and any changes to the code that was on the "stage" to the local repository.
 
-#### Git push: 
+#### `Git push`: 
 Doing this command will upload any commits you have recently uploaded to the local repository to the remote.  
 
 ## Error handling:  
-A error most students do is forget to initialize git inside of the workspace instead of the direcotry they created. a way to fix this is uninitializing git by doing the command rm -rf .git then cd into the direcotry you want then initialize git
+A error most students do is forget to initialize git inside of the workspace instead of the direcotry they 
+created. a way to fix this is uninitializing git by doing the command 
+`rm -rf .git` then cd into the direcotry you want then initialize git.
