@@ -9,7 +9,7 @@ Is a distributed version control system and is responsible for keeping track of 
 #### GitHub:  
 Is a git repository hosting service, it provides a web-based interface and other things like access control and several other collaboration features.  
 #### Difference:  
-The difference between Git and Github is that Git takes snapshots of code however, you cannot use Github without git. GitHub stores save code in the website also known as the "clouds".
+The difference between Git and Github is that Git takes snapshots of code however, you cannot use Github without git. GitHub stores save code in the website also known as the "clouds". Git does not require GitHub
 
 
 
@@ -36,7 +36,7 @@ In order for you to setup a accout you do the following:
 3) initialize git in this new directory  
 4) use git add to add your directory to the "stage"  
 5) then commit your file so htat its uploaded to the repository  
-6) finnally you would use git push so it is uploaded to the github and is abled to be pulled down   
+6) finally you would use git push so it is uploaded to the github and is abled to be pulled down   
 
 
 
