@@ -9,7 +9,7 @@ Is a distributed version control system and is responsible for keeping track of 
 #### GitHub:  
 Is a git repository hosting service, it provides a web-based interface and other things like access control and several other collaboration features.  
 #### Difference:  
-The difference between Git and Github is that Git takes snapshots of code however, you cannot use Github without git. GitHub stores save code in the website also known as the "clouds".
+The difference between Git and Github is that Git takes snapshots of code however, you cannot use Github without git. GitHub stores save code in the website also known as the "clouds". Git does not require GitHub
 
 
 
